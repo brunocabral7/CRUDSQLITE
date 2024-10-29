@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplicativoRoom</string>
+    <string name="edt_name">Digite O Nome</string>
+    <string name="edt_password">Digite a senha</string>
+    <string name="edt_email">Digite o Email</string>
+    <string name="edt_photo">Envie a foto</string>
+</resources>
